@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>test/AustrianLottoJtest.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>24</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AustrianLotto/test/austrianlotto/AustrianLottoUnitTestBoundaryValueAnalysis.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AustrianLotto/src/austrianlotto/IllegalPicksSizeException.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AustrianLotto/src/austrianlotto/GameStats.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AustrianLotto/build.xml</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AustrianLotto/CustomerBuild_Backup.xml</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AustrianLotto/src/austrianlotto/GamePlayer.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AustrianLotto/test/austrianlotto/AustrianLottoUnitTestEquivalencePartitioning.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AustrianLotto/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AustrianLotto/src/austrianlotto/AustrianLotto.java</file>
+        </group>
+    </open-files>
+</project-private>
