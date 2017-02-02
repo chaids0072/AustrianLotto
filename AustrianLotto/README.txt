@@ -41,7 +41,7 @@ Runtime: Java(TM) SE Runtime Environment 1.8.0_40-b26
 I have provided two ant files and they are called
 build.XML  			<-------------Please use this one 
 
-CustomerBuild_Backup.XML	<-------------This is mainly to show that I am capable of writing ant file, in case you need to examine 					      relevant skills
+CustomerBuild_Backup.XML	<-------------This is mainly to show that I can write ant file, in case you need to examine it.
 								  
 To run the project from the Windows command line, 
 go to the dist folder (under the same directory as this README.txt) and type:
